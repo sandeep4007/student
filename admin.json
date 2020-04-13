@@ -1,0 +1,257 @@
+{
+  "Admin": [
+    {
+      "email": "sandeepgurram@gmail.com",
+      "password": "sandy4007",
+      "role": "Admin"
+    },
+    {
+      "email": "sandeepgurram3@gmail.com",
+      "password": "sandy400",
+      "role": "student"
+    },
+    {
+      "id": 1,
+      "firstname": "firstName",
+      "lasttname": "lasttName",
+      "mob": "mob",
+      "dob": "dob",
+      "username": "username",
+      "password": "password",
+      "confirmpassword": "confirmpassword",
+      "role": "role"
+    },
+    {
+      "firstname": "sandeep",
+      "mob": "6474484949",
+      "dob": "2020-04-07",
+      "username": "sandeep6@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "firstname": "sanddep",
+      "mob": "67899",
+      "dob": "2020-04-15",
+      "email": "sandeep7@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "role": "Admin",
+      "id": 3
+    },
+    {
+      "firstname": "vinay",
+      "mob": "57687989",
+      "dob": "2020-04-07",
+      "email": "sandeep9@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "role": "student",
+      "id": 4
+    },
+    {
+      "firstname": "ttt",
+      "mob": "576879879",
+      "dob": "2020-04-08",
+      "email": "sandeep8@gmail.com",
+      "password": "89197822",
+      "confirmpassword": "89197822",
+      "role": "student",
+      "id": 5
+    },
+    {
+      "firstname": "fxahxgh",
+      "mob": "bhxjhxsk",
+      "dob": "2020-04-07",
+      "email": "sandeep0@gmail.com",
+      "password": "99632397",
+      "confirmpassword": "99632397",
+      "role": "student",
+      "id": 6
+    },
+    {
+      "firstname": "vinay",
+      "mob": "56898",
+      "dob": "2020-04-07",
+      "email": "vi@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "role": "student",
+      "id": 7
+    }
+  ],
+  "students": [
+    {
+      "Name": "rajesh",
+      "Email": "sandy@gmail.com",
+      "Contact": "9963239768",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Name": "Vinay",
+      "Email": "vinay@gmail.com",
+      "Contact": "8985799768"
+    },
+    {
+      "id": 3,
+      "Name": "Tejasri",
+      "Email": "tej@gmail.com",
+      "Contact": "8985699716"
+    },
+    {
+      "id": 4,
+      "Name": "Jayakrishna",
+      "Email": "jaya@gmail.com",
+      "Contact": "8919782299"
+    },
+    {
+      "id": 5,
+      "Name": "Sidhu",
+      "Email": "sidhu@gmail.com",
+      "Contact": "9963239768"
+    },
+    {
+      "Name": "sandy",
+      "Email": "sandy@gmail.com",
+      "Contact": "616w18787",
+      "id": 8
+    },
+    {
+      "Name": "teja",
+      "Email": "rajesh@gmail.com",
+      "Contact": "9963239768",
+      "id": 9
+    },
+    {
+      "Name": "Sandy",
+      "Email": "sandy@gmail.com",
+      "Contact": "9963239768",
+      "id": 10
+    },
+    {
+      "Name": "rajesh",
+      "Email": "rajesh@gmail.com",
+      "Contact": "9177714589",
+      "id": 11
+    }
+  ],
+  "timetables": [
+    {
+      "Day": "mon-sat",
+      "period": "p1-p7",
+      "p1": "hindhi",
+      "p2": "english",
+      "p3": "telugu",
+      "p4": "maths",
+      "p5": "hindhi",
+      "p6": "social",
+      "teacher": "sudha",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Day": "Mon-Sat",
+      "period": "P1-P7",
+      "p1": "Hindi",
+      "p2": "Telugu",
+      "p3": "Math",
+      "p4": "English",
+      "p5": "Social",
+      "p6": "Science",
+      "teacher": "Lakshmi"
+    },
+    {
+      "id": 3,
+      "Day": "Mon-Sat",
+      "period": "P1-P7",
+      "p1": "Math",
+      "p2": "Hindi",
+      "p3": "Telugu",
+      "p4": "English",
+      "p5": "Social",
+      "p6": "Science",
+      "teacher": "Sai"
+    },
+    {
+      "Day": "Mon-Sat",
+      "period": "P1-P7",
+      "p1": "hindhi",
+      "p2": "english",
+      "p3": "telugu",
+      "p4": "maths",
+      "p5": "science",
+      "p6": "social",
+      "teacher": "Tahir",
+      "id": 4
+    },
+    {
+      "Day": "Mon-Sat",
+      "period": "P1-P7",
+      "p1": "hindhi",
+      "p2": "english",
+      "p3": "telugu",
+      "p4": "maths",
+      "p5": "science",
+      "p6": "social",
+      "teacher": "Ganesh",
+      "id": 5
+    },
+    {
+      "Day": "Mon-Sat",
+      "period": "P1-P7",
+      "p1": "hindhi",
+      "p2": "english",
+      "p3": "telugu",
+      "p4": "maths",
+      "p5": "science",
+      "p6": "social",
+      "teacher": "Kumar",
+      "id": 6
+    }
+  ],
+  "details": [
+    {
+      "firstname": "Teja",
+      "mob": "5647488399",
+      "dob": "2020-04-15",
+      "username": "teja",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "student",
+      "id": 2
+    },
+    {
+      "firstname": "teja",
+      "mob": "9876655443",
+      "dob": "2020-04-29",
+      "username": "teja",
+      "password": "123456",
+      "confirmpassword": "123456",
+      "role": "student",
+      "id": 3
+    },
+    {
+      "firstname": "teja",
+      "mob": "9877655443",
+      "dob": "2020-04-08",
+      "username": "sandeep3@gmail.com",
+      "password": "1234567",
+      "confirmpassword": "1234567",
+      "role": "student",
+      "id": 4
+    },
+    {
+      "firstname": "teja",
+      "mob": "988775433",
+      "dob": "2020-04-15",
+      "username": "sandeep@gmail.com",
+      "password": "12345678",
+      "confirmpassword": "12345678",
+      "role": "student",
+      "id": 5
+    }
+  ]
+}
